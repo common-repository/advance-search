@@ -1,0 +1,819 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-31 15:57+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: advance-search.php:125
+msgid "Advanced Search Includes Search Form Customizer, WooCommerce Search, AJAX Search & Voice Search support! Advanced Search plugin adds to default WordPress search engine the ability to search by content, post types, attachments from selected fields and ACF plugin fields support."
+msgstr ""
+
+#: inc/admin/call-to-action-editable/index.js:38
+msgid "Advance Search"
+msgstr ""
+
+#: inc/admin/call-to-action-editable/index.js:114
+msgid "Advanced Search Shortcode ID"
+msgstr ""
+
+#: inc/admin/class-admin.php:109
+msgid "Are you sure you want to delete this record?"
+msgstr ""
+
+#: inc/admin/class-admin.php:123 inc/admin/class-admin.php:124
+#: inc/admin/views/help-update.php:123
+#: inc/admin/views/html-advance-search-admin-options.php:970
+#: inc/admin/views/import-export.php:44
+#: inc/admin/views/search-statistics.php:48 inc/admin/views/wpas-search.php:158
+msgid "Advanced Search"
+msgstr ""
+
+#: inc/admin/class-admin.php:134 inc/admin/class-admin.php:135
+#: inc/admin/views/help-update.php:23
+#: inc/admin/views/html-advance-search-admin-options.php:74
+#: inc/admin/views/import-export.php:26
+msgid "Search Statistics"
+msgstr ""
+
+#: inc/admin/class-admin.php:144 inc/admin/class-admin.php:145
+msgid "Export/Import"
+msgstr ""
+
+#: inc/admin/class-admin.php:154 inc/admin/class-admin.php:155
+msgid "Help & Update"
+msgstr ""
+
+#: inc/admin/class-admin.php:171
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-admin.php:172 inc/admin/views/help-update.php:24
+#: inc/admin/views/help-update.php:111 inc/admin/views/help-update.php:137
+#: inc/admin/views/help-update.php:139
+#: inc/admin/views/html-advance-search-admin-options.php:217
+#: inc/admin/views/html-advance-search-admin-options.php:328
+#: inc/admin/views/html-advance-search-admin-options.php:388
+#: inc/admin/views/html-advance-search-admin-options.php:426
+#: inc/admin/views/html-advance-search-admin-options.php:558
+#: inc/admin/views/html-advance-search-admin-options.php:982
+#: inc/admin/views/html-advance-search-admin-options.php:984
+#: inc/admin/views/import-export.php:27 inc/admin/views/import-export.php:57
+#: inc/admin/views/search-statistics.php:25
+#: inc/admin/views/search-statistics.php:60
+#: inc/admin/views/search-statistics.php:62 inc/admin/views/wpas-search.php:96
+#: inc/admin/views/wpas-search.php:170 inc/admin/views/wpas-search.php:172
+msgid "Go Pro"
+msgstr ""
+
+#: inc/admin/class-admin.php:187 inc/admin/class-admin.php:207
+#: inc/admin/class-admin.php:224 inc/admin/class-admin.php:241
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/admin/class-admin.php:697
+msgid "Thanks for signing up! Just click the link below to verify your email and we’ll keep you up-to-date with the latest and greatest brewing in our dev labs!."
+msgstr ""
+
+#: inc/admin/class-admin.php:731
+msgid "Email Verified Successfully. Redirecting please wait."
+msgstr ""
+
+#: inc/admin/views/help-update.php:22 inc/admin/views/import-export.php:25
+#: inc/admin/views/search-statistics.php:24
+msgid "Search list"
+msgstr ""
+
+#: inc/admin/views/help-update.php:33
+msgid "Support"
+msgstr ""
+
+#: inc/admin/views/help-update.php:34
+msgid "If you didn't find the answer from the FAQ, or if you are having other issues, feel free to "
+msgstr ""
+
+#: inc/admin/views/help-update.php:37
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/views/help-update.php:38
+msgid "Please check online "
+msgstr ""
+
+#: inc/admin/views/help-update.php:38
+msgid "documentation"
+msgstr ""
+
+#: inc/admin/views/help-update.php:41
+msgid "FAQ"
+msgstr ""
+
+#: inc/admin/views/help-update.php:46
+msgid "Does the plugin provide search shortcodes ?"
+msgstr ""
+
+#: inc/admin/views/help-update.php:48
+msgid "Yes, Advance Search provides a shortcode for each search form which you can use to embed it on your WordPress site using our powerful and easy to use shortcode editing tool. We provide integration with Gutenburg and classic editor."
+msgstr ""
+
+#: inc/admin/views/help-update.php:49
+msgid "For integration with most widely used editors like Visual Composer, Elementor and BB builder, you have to upgrade to our"
+msgstr ""
+
+#: inc/admin/views/help-update.php:49
+msgid "pro version"
+msgstr ""
+
+#: inc/admin/views/help-update.php:54
+msgid "Is the plugin compatible with WooCommerce ?"
+msgstr ""
+
+#: inc/admin/views/help-update.php:56
+msgid "Yes, Advance Search plugin cater you integration with WooCommerce to provide a powerful and advanced woocommerce search. Not only you can use Fuzzy searching, you can exclude/include specific WooCommerce products from search and much more."
+msgstr ""
+
+#: inc/admin/views/help-update.php:61
+msgid "Does the plugin provide search widgets ?"
+msgstr ""
+
+#: inc/admin/views/help-update.php:63
+msgid "No. Search widgets is a premium feature. You have to upgrade to our"
+msgstr ""
+
+#: inc/admin/views/help-update.php:63 inc/admin/views/help-update.php:77
+msgid "Pro Version"
+msgstr ""
+
+#: inc/admin/views/help-update.php:63 inc/admin/views/help-update.php:77
+msgid "to enable this feature."
+msgstr ""
+
+#: inc/admin/views/help-update.php:68
+msgid "Will the advance search work with my theme ?"
+msgstr ""
+
+#: inc/admin/views/help-update.php:70
+msgid "Yes. Advance Search, has been tested and works perfectly with a range of themes, including popular themes like Divi, Avada, Impreza, OceanWP and many more."
+msgstr ""
+
+#: inc/admin/views/help-update.php:75
+msgid "Does plugin provide voice search ?"
+msgstr ""
+
+#: inc/admin/views/help-update.php:77
+msgid "No. Voice search is a premium feature. You have to upgrade to our"
+msgstr ""
+
+#: inc/admin/views/help-update.php:82
+msgid "When I type in something, the search wheel is spinning, but nothing happens"
+msgstr ""
+
+#: inc/admin/views/help-update.php:84
+msgid "It is most likely, that another plugin or the template is throwing errors while the ajax request is generated. Try disabling all the plugins one by one can help you figure out which plugin is creating the issue."
+msgstr ""
+
+#: inc/admin/views/help-update.php:89
+msgid "I disabled all the plugins but the search wheel is still spinning to infinity, nothing happens"
+msgstr ""
+
+#: inc/admin/views/help-update.php:91
+msgid "You should contact us on the support forum with your website url. We will check your website and will let you know what to do."
+msgstr ""
+
+#: inc/admin/views/help-update.php:96
+msgid "Do You Offer Customization Support ?"
+msgstr ""
+
+#: inc/admin/views/help-update.php:98
+msgid "Yes, we offer free/premium customization to our customers."
+msgstr ""
+
+#: inc/admin/views/help-update.php:98
+msgid "Contact us"
+msgstr ""
+
+#: inc/admin/views/help-update.php:98
+msgid "now."
+msgstr ""
+
+#: inc/admin/views/help-update.php:110
+msgid "Checkout Pro features"
+msgstr ""
+
+#: inc/admin/views/help-update.php:131
+#: inc/admin/views/html-advance-search-admin-options.php:978
+#: inc/admin/views/import-export.php:52
+#: inc/admin/views/search-statistics.php:56 inc/admin/views/wpas-search.php:166
+msgid "We love and care about you. Our team is putting maximum efforts to provide you the best functionalities. It would be highly appreciable if you could spend a couple of seconds to give a Nice Review to the plugin to appreciate our efforts. So we can work hard to provide new features regularly."
+msgstr ""
+
+#: inc/admin/views/help-update.php:133
+#: inc/admin/views/html-advance-search-admin-options.php:979
+#: inc/admin/views/import-export.php:54
+#: inc/admin/views/search-statistics.php:57 inc/admin/views/wpas-search.php:167
+msgid "Rate Us"
+msgstr ""
+
+#: inc/admin/views/help-update.php:138
+#: inc/admin/views/html-advance-search-admin-options.php:983
+#: inc/admin/views/import-export.php:58
+#: inc/admin/views/search-statistics.php:61 inc/admin/views/wpas-search.php:171
+msgid "Even more features available in Advanced Search Pro."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:73
+msgid "Back to the search list"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:75
+#: inc/admin/views/import-export.php:59
+msgid "Go Pro "
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:88
+msgid "You haven't made any changes in settings to be saved."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:88
+#: inc/admin/views/html-advance-search-admin-options.php:95
+#: inc/admin/views/html-advance-search-admin-options.php:102
+#: inc/admin/views/wpas-search.php:79
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:95
+msgid "Settings updated successfully."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:102
+msgid "Settings has been restored successfully."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:111
+msgid "Shortcode for "
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:114
+msgid "Simple Shortcode"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:120
+msgid "Search Shortcode:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:124
+msgid "Add title for Search:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:127
+msgid "Extra for php template use"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:133
+msgid "Post Types"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:136
+msgid "Select Post Types to Include in the Advanced Search"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:145
+#: inc/admin/views/html-advance-search-admin-options.php:251
+msgid "Setting for "
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:164
+#: inc/admin/views/html-advance-search-admin-options.php:277
+msgid "Search Area"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:167
+#: inc/admin/views/html-advance-search-admin-options.php:280
+msgid "* By enable specific area of search, search result relative from specific area i.e title, description etc."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:175
+#: inc/admin/views/html-advance-search-admin-options.php:296
+msgid "Search in Title"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:187
+#: inc/admin/views/html-advance-search-admin-options.php:312
+msgid "Search in Content"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:198
+msgid "Search by Post Meta key and Value"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:201
+msgid "* Search may slower by post meta key search."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:203
+msgid "List of Post Meta Keys"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:205
+msgid "* Comma \",\" separated list of post meta keys i.e Metakey1,Metakey2 etc."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:214
+msgid "Exclude post by ID"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:215
+#: inc/admin/views/html-advance-search-admin-options.php:325
+#: inc/admin/views/html-advance-search-admin-options.php:421
+#: inc/admin/views/html-advance-search-admin-options.php:549
+msgid "* This feature is available in pro version."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:221
+msgid "Exclude Post ids"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:224
+msgid "Comma \",\" separated list of post IDs"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:233
+msgid "Taxonomies"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:237
+msgid "Select Taxonomies to Include in the Advanced Search"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:324
+msgid "Show/Hide empty taxonomies"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:330
+msgid "* By enable this option empty taxonomies show in search results."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:339
+msgid "Show Empty Taxonomies"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:350
+msgid "Attachments"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:354
+msgid "Select Attachment type to Include in the Advanced Search"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:355
+msgid "* Only Image name search available in free version."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:358
+msgid "* Select attachment type to include in search result."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:359
+msgid "* By enable png, jpg, gif, zip attachment search only by title."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:421
+msgid "User Search"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:429
+msgid "Enable User Search By Specific Column"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:441
+msgid "By First Name"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:453
+msgid "By Last Name"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:465
+msgid "By Login Name"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:477
+msgid "By Display Name"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:489
+msgid "By Email"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:501
+msgid "By User Bio"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:510
+msgid "Search by Specific Role"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:537
+msgid "Exclude user By ID"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:541
+msgid "Comma \",\" separated list of user IDs"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:549
+msgid "Voice Search"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:555
+msgid "Enable Voice Search"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:561
+msgid "* By enable voice option user can search by voice from frontend."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:563
+msgid "* Voice search support only working on those web browsers which supports webkitSpeechRecognition API.."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:572
+msgid "Enable Voice Search "
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:581
+msgid "Theme & Styling"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:588
+msgid "Style is not implemented if this search is set as default search."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:590
+msgid "Overall Box layout"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:594
+msgid "Search Box Widths"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:610
+msgid "Search Box Height"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:614
+#: inc/admin/views/html-advance-search-admin-options.php:625
+#: inc/admin/views/html-advance-search-admin-options.php:668
+#: inc/admin/views/html-advance-search-admin-options.php:682
+#: inc/admin/views/html-advance-search-admin-options.php:685
+#: inc/admin/views/html-advance-search-admin-options.php:688
+#: inc/admin/views/html-advance-search-admin-options.php:723
+#: inc/admin/views/html-advance-search-admin-options.php:726
+#: inc/admin/views/html-advance-search-admin-options.php:762
+#: inc/admin/views/html-advance-search-admin-options.php:906
+msgid "px"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:621
+msgid "Search Box Margin"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:632
+msgid "BackGround Color"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:641
+msgid "Border Type"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:667
+msgid "Width:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:674
+#: inc/admin/views/html-advance-search-admin-options.php:768
+msgid "Border Color:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:679
+msgid "Border Radius "
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:702
+msgid "Search Input Design"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:708
+msgid "Search Input Background Color:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:716
+msgid "Input Font Style"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:719
+msgid "Search Input Font Color :"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:723
+msgid "Font size:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:726
+msgid "Line Height:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:733
+msgid "Input Border"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:737
+msgid "Border Type:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:761
+msgid "Width: "
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:776
+msgid "Border Radius:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:802
+msgid "Icons"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:803
+msgid "* Only 1 magnifier and loading icon available in free version."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:806
+msgid "Magnifier Icons:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:816
+msgid "Magnifier Icon Color:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:823
+msgid "Magnifier Background Color:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:830
+msgid "Button Position:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:833
+msgid "Right To input"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:834
+msgid "Left To input"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:848
+msgid "Loading Icons"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:854
+msgid "Loading Icon Color:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:864
+msgid "Search Button"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:869
+msgid "Search Button Text:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:874
+msgid "Search Text Color:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:885
+msgid "Show Search Button Text"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:892
+msgid "Show Maginfier Icon"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:904
+msgid "Search Text Font Size:"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:921
+#: inc/admin/views/html-advance-search-admin-options.php:927
+msgid "Fuzzy Matching"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:924
+msgid "'Full/Exact Word' search will work for post types only."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:930
+msgid "* This additional option is for more efficient search results."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:934
+msgid "Partial Word"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:939
+msgid "Full/Exact  Word"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:944
+msgid "* Search may slower by choosing Partial Word Search."
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:952
+msgid "Save all changes"
+msgstr ""
+
+#: inc/admin/views/html-advance-search-admin-options.php:960
+msgid "Restore defaults"
+msgstr ""
+
+#: inc/admin/views/import-export.php:35
+#: inc/admin/views/search-statistics.php:36
+msgid "* This feature only for pro version"
+msgstr ""
+
+#: inc/admin/views/import-export.php:35
+#: inc/admin/views/search-statistics.php:36
+msgid " Buy Now"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:44
+msgid "Shortcode Name:"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:45 inc/admin/views/wpas-search.php:309
+msgid "Enter Shortcode Name"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:46
+msgid "Create"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:48 inc/admin/views/wpas-search.php:304
+msgid "You have reached the maximum form limit of 3 forms. <a href=\"https://searchpro.ai/\" target=\"_blank\" class=\"go_pro_link\">Buy Pro</a> for more search forms."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:51 inc/admin/views/wpas-search.php:315
+msgid "This name is already exists."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:56
+msgid "Replace search bar"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:59
+msgid "Replace default search bar with:"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:66
+msgid "None"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:79
+msgid "Successfully Replaced."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:84 inc/admin/views/wpas-search.php:116
+msgid "Save"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:101
+msgid "Replace the default woocommerce search with:"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:125
+msgid "List of shortcodes"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:141
+msgid "Edit Settings"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:141 inc/admin/views/wpas-search.php:311
+msgid "Clone Settings"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:141
+msgid "Delete Search"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:149
+msgid "Oops! Shortcode(s) not found."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:213
+msgid "Welcome to Advanced Search"
+msgstr ""
+
+#: inc/admin/views/wpas_popup.php:34
+msgid ""
+"We love making new friends! Subscribe below and we promise to\n"
+"    keep you up-to-date with our latest new plugins, updates,\n"
+"    awesome deals and a few special offers."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:227
+msgid "Please Enter First Name."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:235
+msgid "Please Enter Last Name."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:244
+msgid "Please Enter Email Address."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:245
+msgid "Please Enter Valid Email Address."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:249
+msgid "Verify"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:255
+msgid "No Thanks"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:261
+msgid "Terms of Service"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:263
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:281
+msgid "Saving..."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:283
+msgid "OK"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:292
+msgid "Clone Shortcode: "
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:311
+msgid "Clone"
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:316
+msgid "Please enter Shortcode Name."
+msgstr ""
+
+#: inc/admin/views/wpas-search.php:317
+msgid "Shortcode Successfully created."
+msgstr ""
+
+#: inc/common/class-common.php:312
+msgid "No results found."
+msgstr ""
+
+#: inc/admin/views/help-update.php:34
+msgid "open a support ticket."
+msgstr ""
+
+#: inc/common/class-common.php:434
+msgid "Search here..."
+msgstr "Soek hier ..."
+
+#: inc/common/class-common.php:453
+#, fuzzy
+#| msgid "Search Shortcode:"
+msgid "Search form not found !"
+msgstr "Soek kortkode:"
+
+#: inc/admin/views/wpas_popup.php:43
+msgid "First Name"
+msgstr ""
+
+#: inc/admin/views/wpas_popup.php:51
+msgid "Last Name"
+msgstr ""
+
+#: inc/admin/views/wpas_popup.php:60
+msgid "Email Address"
+msgstr ""

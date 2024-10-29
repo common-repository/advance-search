@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpas-advanvced-search\n"
+"POT-Creation-Date: 2020-04-16 18:33+0530\n"
+"PO-Revision-Date: 2020-04-16 18:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../inc/admin/views\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_attr__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:125
+#: 09-04-html-wpas-advanced-search-admin-options.php:184
+#: html-wpas-advanced-search-admin-options.php:122
+#: html-wpas-advanced-search-admin-options.php:220
+#: old-html-wpas-advanced-search-admin-options.php:121
+#: old-html-wpas-advanced-search-admin-options.php:160
+#: old/html-wpas-advanced-search-admin-options.php:108
+#: old/html-wpas-advanced-search-admin-options.php:138
+msgid "Setting for "
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:128
+#: 09-04-html-wpas-advanced-search-admin-options.php:187
+#: 09-04-html-wpas-advanced-search-admin-options.php:242
+#: html-wpas-advanced-search-admin-options.php:227
+#: old-html-wpas-advanced-search-admin-options.php:124
+#: old-html-wpas-advanced-search-admin-options.php:163
+#: old-html-wpas-advanced-search-admin-options.php:202
+#: old/html-wpas-advanced-search-admin-options.php:111
+#: old/html-wpas-advanced-search-admin-options.php:141
+#: old/html-wpas-advanced-search-admin-options.php:180
+msgid "Include "
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:140
+#: old-html-wpas-advanced-search-admin-options.php:136
+msgid "Please enter comma seprated post IDs"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:149
+#: 09-04-html-wpas-advanced-search-admin-options.php:201
+#: html-wpas-advanced-search-admin-options.php:167
+#: html-wpas-advanced-search-admin-options.php:253
+msgid "Search in title"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:156
+#: 09-04-html-wpas-advanced-search-admin-options.php:208
+#: html-wpas-advanced-search-admin-options.php:179
+#: html-wpas-advanced-search-admin-options.php:265
+msgid "Search in Content"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:259
+#: old-html-wpas-advanced-search-admin-options.php:219
+#: old/html-wpas-advanced-search-admin-options.php:197
+msgid "Enable User Search "
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:266
+#: html-wpas-advanced-search-admin-options.php:334
+#: old-html-wpas-advanced-search-admin-options.php:226
+#: old/html-wpas-advanced-search-admin-options.php:204
+msgid "Enable User Search By First Name"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:273
+#: html-wpas-advanced-search-admin-options.php:346
+#: old-html-wpas-advanced-search-admin-options.php:233
+#: old/html-wpas-advanced-search-admin-options.php:211
+msgid "Enable User Search By Last Name"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:280
+#: html-wpas-advanced-search-admin-options.php:358
+#: old-html-wpas-advanced-search-admin-options.php:240
+#: old/html-wpas-advanced-search-admin-options.php:218
+msgid "Enable User Search By Login Name"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:287
+#: html-wpas-advanced-search-admin-options.php:370
+#: old-html-wpas-advanced-search-admin-options.php:247
+#: old/html-wpas-advanced-search-admin-options.php:225
+msgid "Enable User Search By Display Name"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:294
+#: html-wpas-advanced-search-admin-options.php:382
+#: old-html-wpas-advanced-search-admin-options.php:254
+#: old/html-wpas-advanced-search-admin-options.php:232
+msgid "Enable User Search By Email"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:301
+#: html-wpas-advanced-search-admin-options.php:394
+#: old-html-wpas-advanced-search-admin-options.php:261
+#: old/html-wpas-advanced-search-admin-options.php:239
+msgid "Enable User Search By User Bio"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:326
+#: old-html-wpas-advanced-search-admin-options.php:286
+msgid "Please enter comma seprated user IDs"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:346
+#: html-wpas-advanced-search-admin-options.php:475
+#: old-html-wpas-advanced-search-admin-options.php:306
+#: old/html-wpas-advanced-search-admin-options.php:259
+msgid "Enable Voice Search "
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:642
+#: html-wpas-advanced-search-admin-options.php:780
+msgid "Show Search Button / Text"
+msgstr ""
+
+#: 09-04-html-wpas-advanced-search-admin-options.php:649
+#: html-wpas-advanced-search-admin-options.php:787
+msgid "Show Maginfier Icon"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:91
+msgid "Simple Shortcode"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:110
+msgid "Post Types"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:113
+msgid "Select Post Types to Include in the Advanced Search"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:141
+msgid "Exclude post by ID"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:145
+msgid "Exclude Post ids"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:148
+msgid "Comma \",\" separated list of post IDs"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:156
+#: html-wpas-advanced-search-admin-options.php:241
+msgid "Search Area"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:159
+#: html-wpas-advanced-search-admin-options.php:244
+msgid ""
+"* By enable specific area of search, search result relative from specific "
+"area i.e title, description etc."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:190
+msgid "Search by Post Meta key and Value"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:193
+msgid "* Search may slower by post meta key search."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:195
+msgid "List of Post Meta Keys"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:197
+msgid ""
+"* Comma \",\" separated list of post meta keys i.e Metakey1, Metakey2 etc."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:206
+msgid "Taxonomies"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:210
+msgid "Select Taxonomies to Include in the Advanced Search"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:275
+msgid "Attachments"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:279
+msgid "Select Attachment type to Include in the Advanced Search"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:282
+msgid "* Select attachment type to include in search result."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:283
+msgid "* By enable png,jpg,gif attachment search only by title."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:317
+msgid "User Search"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:322
+msgid "User Search By Specific Column"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:403
+msgid "Search by Specific Role"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:430
+msgid "Exclude user By ID"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:434
+msgid "Comma \",\" separated list of user IDs"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:442
+msgid "Search by User Meta key and Value"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:445
+msgid "* Search may slower by meta key search."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:447
+msgid "List of User Meta Keys"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:449
+msgid ""
+"* Comma \",\" separated list of user meta keys i.e Metakey1, Metakey2 etc."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:459
+msgid "Voice Search"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:463
+msgid "Enable Voice Search"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:466
+msgid "* By enable voice option user can search by voice from frontend."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:484
+msgid "Theme & Styling"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:491
+msgid "Style is not implemented if this search is set as default search."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:493
+msgid "Overall Box layout"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:497
+msgid "Search Box Widths"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:507
+msgid "Search Box Height"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:514
+msgid "Search Box Margin"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:525
+msgid "BackGround Color"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:530
+#: html-wpas-advanced-search-admin-options.php:626
+msgid "Border Type"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:556
+msgid "Width"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:563
+#: html-wpas-advanced-search-admin-options.php:657
+msgid "Border Color"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:568
+msgid "Border Radius "
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:591
+msgid "Search Input Design"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:597
+msgid "Search Input Background Color"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:605
+msgid "input Font Style"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:608
+msgid "Search input font Color :"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:612
+msgid "Font size:"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:615
+msgid "Line Height:"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:622
+msgid "input Border"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:650
+msgid "Width "
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:665
+msgid "Border Radius"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:691
+msgid "Icons"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:693
+msgid "Magnifier Icons:"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:709
+msgid "Maginfier Icon color:"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:715
+msgid "Maginfier Background Color:"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:721
+msgid "Button Position"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:724
+msgid "Right To input"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:725
+msgid "Left To input"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:737
+msgid "Loading Icons"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:749
+msgid "Loading Icon color:"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:759
+msgid "Search button"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:764
+msgid "Search Button Text:"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:769
+msgid "Search text color:"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:799
+msgid "Search text font size"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:816
+msgid "Advance Options"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:820
+msgid "Search Type"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:823
+msgid "* This additional option for more efficient search results."
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:824
+msgid "Full/exact  Word"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:828
+msgid "Partial Word"
+msgstr ""
+
+#: html-wpas-advanced-search-admin-options.php:833
+msgid "* Search may slower by choosing Partial Word Search."
+msgstr ""
+
+#: import-export.php:25
+msgid "Search list"
+msgstr ""
+
+#: import-export.php:26
+msgid "Search Statistics"
+msgstr ""
+
+#: import-export.php:27 import-export.php:80
+msgid "Go Pro"
+msgstr ""
+
+#: import-export.php:34 import-export.php:48
+msgid "Export"
+msgstr ""
+
+#: import-export.php:36
+msgid "Select the search forms to export"
+msgstr ""
+
+#: import-export.php:51
+msgid "Copy and save the text appearing in this box"
+msgstr ""
+
+#: import-export.php:56 import-export.php:59
+msgid "Import"
+msgstr ""
+
+#: import-export.php:57
+msgid "Please paste export text into box for import form."
+msgstr ""
+
+#: import-export.php:66
+msgid "Advance Search"
+msgstr ""
+
+#: import-export.php:77
+msgid "Rate Us"
+msgstr ""
+
+#: import-export.php:81
+msgid "Even more features available in Advance Search Pro."
+msgstr ""

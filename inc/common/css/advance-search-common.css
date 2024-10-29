@@ -1,0 +1,118 @@
+/**
+ * All of the CSS for your admin-specific functionality should be included in this file.
+ *
+ * The file is enqueued from inc/admin/class-admin.php.
+ */
+
+.wpas-advanced-search-form-container form {
+	margin: 10px auto;
+}
+
+.wpas-advanced-search-form-container p {
+	 width: 30%;
+	 padding: 0 10px 0 0;
+	 float: left;
+}
+
+#wpas-advanced-search-form .nds-search-button {
+	background-color: #4bc970;
+	float: right;
+}
+
+#wpas-advanced-search-form .nds-search-input {
+	width: 100%;
+}
+
+#wpas-advanced-search-form .nds-input-container {
+	overflow: hidden;
+}
+
+.nds-search-results .flex-grid-container {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	    -ms-flex-flow: row wrap;
+	        flex-flow: row wrap;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+
+
+.nds-search-results .flex-grid-item {
+	-ms-flex-preferred-size: 250px;
+	    flex-basis: 250px;
+	margin: 10px;
+	font-weight: initial;
+	background-color: #eee;
+}
+
+.nds-search-results .flex-grid-item img {
+	display: block;
+	margin: 0 auto;
+}
+
+.nds-search-results .flex-grid-container .flex-grid-item .card-title {
+	text-align: center;
+	text-decoration: none;
+	text-transform: initial;
+	padding: 10px;
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+
+.nds-search-results .flex-grid-container .flex-grid-item a {
+	text-decoration: none;
+	-webkit-box-shadow: none;
+	        box-shadow: none;
+}
+
+.nds-search-results .flex-grid-container .flex-grid-item .card-excerpt {
+	font-size: 12px;
+	padding: 10px;
+}
+
+.nds-search-results .flex-grid-container ul {
+	margin-left: 0;
+}
+
+ .wpas_search_close {
+	display: none;
+    width: 20px;
+    height: 20px;
+    flex: 0 0 34px;
+    flex-grow: 0;
+    order: 7;
+    -webkit-flex: 0 0 34px;
+    -webkit-flex-grow: 0;
+    -webkit-order: 7;
+    position: absolute;
+    cursor: pointer;
+    z-index: 2;
+	right: 10px;
+    top: 52%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	}
+	
+	.wpas_search_close svg {
+	    fill: rgb(254, 254, 254);
+	    background: rgb(51, 51, 51);
+	    background: #333;
+	    border-radius: 50%;
+	    width: 12px;
+        height: 12px;
+	    fill: #fefefe;
+	    padding: 4px;
+		display: block;
+	}
+.wpas-advanced-search-form-container h3 {
+    padding-bottom: 10px;
+}
